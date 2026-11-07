@@ -47,11 +47,17 @@ I have hands-on experience with Java, Spring Boot, Spring MVC, Hibernate, REST A
 **1. DBN-SNN Approach for SC2 Detection**
 - Developed a machine learning-based approach for SC2 detection.
 - Implemented a Flask application for prediction.
-- Used MySQL for database integration.
+- Integrated MySQL for database management.
 
-**2. Logistics Delay Predictor**
-- Developed a Flask-based application to predict logistics delays.
-- Implemented delay prediction and resource feasibility analysis.
+**2. Employee Management System**
+- Developed an application to manage employee information.
+- Implemented employee record management and database operations.
+- Focused on efficient data storage and retrieval.
+
+**3. Student Management System**
+- Developed an application to manage student information.
+- Implemented student record management and database operations.
+- Focused on organizing and maintaining student records.
 
 ### 🎯 Career Objective
 
